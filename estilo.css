@@ -1,0 +1,73 @@
+*{margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ body{
+    
+    /* background-color: #c3b61f;  */
+
+    background-image: url(https://mir-s3-cdn-cf.behance.net/project_modules/hd/ebf84d157316295.63767b18bec82.gif);
+    background-repeat: no-repeat;
+
+    background-size: cover;
+
+     background-position: center;
+
+    background-attachment: fixed;
+}
+
+main{
+    width: 60%;
+    margin: auto;
+    background-color: rgba(7, 133, 192, 0.349);
+    padding-top: 10%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 30%;
+    border:rgba(30, 184, 43, 0.418) 10px dashed;
+    border-radius: 40px;
+
+ /* solid dotted dashed: opções de tipos de linha */
+}
+
+p{color: #000000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 100px;
+    font-style: italic;
+    /* font-stretch: ultra-condensed; */
+    line-height: 1.5;
+    letter-spacing: 2px;
+    word-spacing: 6px;
+    text-align: justify;
+    text-decoration: underline rgba(0, 0, 0, 0.404) solid;
+    /* text-transform: capitalize; */
+    text-indent: 150px;
+    text-shadow: 2px 3px 4px #02ff2459;
+}
+img{width: 600px;
+    
+}
+
+h1{text-align: center;
+color: #16e038;
+font-family: 'Times New Roman', Times, serif;
+text-indent: 10px;
+font-size: 60px;
+text-decoration: underline rgba(0, 0, 0, 0.733);
+}
+
+footer p{
+text-align: center;
+color: rgb(10, 255, 10);
+}
+
+main p{font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+
+
+
